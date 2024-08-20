@@ -28,3 +28,10 @@
 ---
 
 *"Everything can be automated... but I still haven’t figured out how to automate a smile. So after every successful test, I feel like I’ve just pulled off another heroic feat!"*
+
+---
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LevanKerdikashvili&show_icons=true&theme=radical&count_private=true&include_all_commits=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LevanKerdikashvili&layout=compact&theme=radical&count_private=true)
+
+
+
