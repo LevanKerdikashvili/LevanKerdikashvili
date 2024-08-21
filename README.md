@@ -28,3 +28,10 @@
 ---
 
 *"Everything can be automated... but I still haven’t figured out how to automate a smile. So after every successful test, I feel like I’ve just pulled off another heroic feat!"*
+
+---
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LevanKerdikashvili&theme=default)
+
+
+
