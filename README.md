@@ -7,8 +7,8 @@
 🌟 **Specializations:**
 - **Test Automation:** Java, Selenium, Appium, RestAssured
 - **CI/CD Automation:** GitHub Actions, Jenkins, Docker
-- **Web Development:** HTML, CSS, JavaScript, Python, PHP (OOP)
-- **Database Management:** SQL, MySQL
+- **Web Development:** HTML, CSS, JavaScript, Java, Python, PHP (OOP)
+- **Database Management:** SQL, MySQL, MongoDB
 
 💼 **Current Role:**  
 **Test Automation Architect @ Space INT**
@@ -27,7 +27,7 @@
 
 ---
 
-*"Everything can be automated... but I still haven’t figured out how to automate a smile. So after every successful test, I feel like I’ve just pulled off another heroic feat!"*
+*"Everything can be automated..."*
 
 ---
 
