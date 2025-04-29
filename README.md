@@ -22,7 +22,8 @@
 
 📫 **Contact Me:**
 - LinkedIn: [levanqerdikashvili](https://www.linkedin.com/in/levanqerdikashvili/)
-- Website: [automation.ge](https://automation.ge)
+- Website (personal blog): [automation.ge](https://automation.ge)
+- Website: [SDET.GE](https://sdet.ge)
 
 
 ---
